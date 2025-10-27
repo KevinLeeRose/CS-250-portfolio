@@ -1,2 +1,14 @@
-# CS-250-portfolio
-CS 250 Portfolio Submission – Sprint Review and Retrospective
+# CS 250 Journal Reflection
+
+## Interpreting User Needs and the Role of User Stories
+Understanding what users actually need starts with listening, asking the right questions, and breaking down vague goals into something specific and buildable. During the SNHU Travel project, I acted as the Product Owner and focused on writing clear user stories with solid acceptance criteria. One example was the slideshow feature. Instead of leaving it open-ended, I broke it into steps: selecting images, setting durations, and previewing the final result. That clarity helped the team avoid confusion and reduced rework. User stories gave us a shared reference point and helped us stay aligned with the client’s expectations.
+
+## Development Approach and Agile Practices
+As a Developer, I built the slideshow logic in Java with a focus on modularity and long-term maintainability. I commented each function to support mentoring and future troubleshooting. Testing was iterative—I refined the logic and confirmed the output at each step. My approach is always to make the code solid, readable, and ready for hands-on validation. Agile practices like Sprint Planning, Daily Stand-ups, and Retrospectives kept the team focused and adaptable. I plan to carry forward backlog grooming, story point estimation, and the Start Stop Continue format. These tools helped us improve with each sprint and stay responsive to change.
+
+## Teamwork in Software Development
+Being a good team member means owning your role, communicating clearly, and helping others stay unblocked. As Scrum Master, I ran stand-ups, tracked progress with a Kanban board, and resolved issues—from vague requirements to merge conflicts. One moment that stood out was when I sent a focused email to clarify acceptance criteria. That message prevented scope creep and helped us build exactly what the client wanted. When the client shifted focus to wellness travel, we adapted quickly. We refined the backlog, reused existing modules, and created new stories that matched the updated theme. Agile gave us the flexibility to pivot without losing momentum.
+
+We used a simplified Kanban board to track stories, tasks, and bugs. Each card had a title, description, status, and assignee. During Sprint Planning, we estimated effort and committed to realistic goals. Stand-ups helped surface blockers early. Sprint Reviews gave us a chance to demo and gather feedback. Retrospectives helped us reflect and improve. For example, we agreed to start using branches, stop merging directly into main, and continue annotating code for clarity. Those changes directly improved our workflow and code quality.
+
+Scrum-Agile was the right fit for this project. It gave us structure, flexibility, and a rhythm for delivering working software. Leading the Sprint Review and Retrospective reinforced how Agile supports real-world development. By rotating roles, adapting to change, and communicating intentionally, I saw firsthand how Scrum builds stronger teams and better software.
